@@ -3,6 +3,7 @@
 ### 👤 Integrantes 
 - Luiz Henrique
 - Dayana Miranda
+- Wállex de França
 
 ### 📄 Seções
 
